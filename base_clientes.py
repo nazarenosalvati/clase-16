@@ -7,4 +7,5 @@ print(cliente1.ver_cliente())
 #Ahora actualizo el cliente
 
 cliente1.actualizar_contacto("joelvelazquez@gmail.com")
-print(cliente1.ver_cliente())
+print(cliente1.ver_cliente()) 
+print("Hola")
